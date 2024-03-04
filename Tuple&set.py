@@ -15,3 +15,9 @@ thisdict.popitem()
 # thisdict.pop("ket")
 # del thisdict("ket")
 print(thisdict)
+
+a=10
+b=5
+if a>b:    print (a," greater then ",b ) 
+elif a<b: print (a, " less then ", b) 
+else : print (a, "is equal to ",b)
